@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #FFFFFF;
 }
 #Logo {
  transform: scale(0.50, 0.50);
@@ -8,7 +8,6 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background color: white;
 }
 li {
   display: inline;
