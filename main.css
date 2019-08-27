@@ -2,9 +2,6 @@ body {
   background-color: white;
 }
 img {
- display: block; 
- margin-right: auto;
- margin-left: auto;
  transform: scale(0.75, 0.75);
 }
 ul {
